@@ -1,0 +1,21 @@
+#letter {
+  display: none;
+  background-image: url("../img/paper.jpg");
+  background-size: cover;
+}
+
+#letter h1 {
+  text-align: center;
+  font-family: 'Coming Soon', cursive;
+  color: #5b5a63;
+  padding-top: 40px;
+}
+
+#letter p {
+  font-family: 'Coming Soon', cursive;
+  font-size: 20px;
+  padding-left: 170px;
+  padding-top: 100px;
+  line-height: 3;
+  color: #5b5a63;
+}
